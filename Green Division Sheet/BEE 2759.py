@@ -1,0 +1,6 @@
+A = input()
+B = input()
+C = input()
+print("A = "+A+","+" B = "+B+","+" C = "+C)
+print("A = "+B+","+" B = "+C+","+" C = "+A)
+print("A = "+C+","+" B = "+A+","+" C = "+B)
